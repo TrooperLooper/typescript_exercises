@@ -47,8 +47,6 @@ const printResult = (result: result) => {
 
 
     //Exercise 4:
-
-    FIIIIIIIX BOOOOOOKTYPE
     
     interface Book {
         title: string;
